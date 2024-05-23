@@ -5,6 +5,28 @@
 # application up at locahost:3001 with base api url: http://localhost:3001
 # to run test for all controllers and serives
 # 8. npm test
+# Backend Setup and How to Start
+
+To set up and run the backend server, follow these steps:
+
+1. Navigate to the `ecommerce` directory:
+
+   ```bash
+   cd ecommerce
+2. install dependencies using npm:
+npm install
+3. Start the server:
+npm start
+The application will be up at http://localhost:3001 with the base API URL: http://localhost:3001.
+
+4. To run tests for all controllers and services:
+npm test
+This will execute tests to ensure the functionality of the backend components.
+
+Feel free to explore the backend codebase and make any necessary modifications.
+
+This revised version maintains clarity and consistency in the instructions for setting up and running the backend server.
+
 
 
 # API Documentation
