@@ -1,0 +1,64 @@
+/* src/components/AddToCart.css */
+
+.add-to-cart {
+    margin: 20px auto;
+    max-width: 600px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+  }
+  
+  .add-to-cart h2 {
+    margin-bottom: 20px;
+  }
+  
+  .add-to-cart form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .add-to-cart input {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .add-to-cart .item {
+    display: flex;
+    align-items: center;
+  }
+  
+  .add-to-cart .item input {
+    flex: 1;
+    margin-right: 10px;
+  }
+  
+  .add-to-cart .item button {
+    padding: 5px 10px;
+    background-color: #ff4d4d;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .add-to-cart button {
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .add-to-cart button:hover {
+    background-color: #0056b3;
+  }
+  
+  .add-to-cart .item button:hover {
+    background-color: #d43636;
+  }
+  

@@ -1,0 +1,14 @@
+/* src/components/ResultDisplay.css */
+
+.result-display {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #fff;
+  }
+  
+  .result-display h3 {
+    margin-bottom: 10px;
+  }
+  
